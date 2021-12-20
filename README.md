@@ -1,0 +1,2 @@
+# JavaThymeleaf
+Spring Boot Thymeleaf
